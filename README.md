@@ -1,2 +1,2 @@
 # BiliBili_Dark_Room
-Simple python project to get most users in BiliBili dark room
+Simple python project which can get the most of data in BiliBili darkroom.
